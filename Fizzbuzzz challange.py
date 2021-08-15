@@ -21,15 +21,15 @@ def fizz_buzz(number: int) -> str:
 input("Play Fizz Buzz.   Press ENTER to start")
 print()
 
-next_number = 0
+next_number =0
 while next_number < 50:
-    next_number += 1
+    next_number+=  1
     print(fizz_buzz(next_number))
-    next_number += 1
+    next_number+=1
     correct_number = fizz_buzz(next_number)
-    players_answer = input("your go ")
-    if players_answer != correct_number:
-        print("Sorry you are wrong!", correct_number)
+    players_answer = input("your go")
+    if players_answer!= correct_number:
+        print("po da veliya,correct answer",correct_number)
         break
 else:
     print("well,you are done now {}".format(next_number))

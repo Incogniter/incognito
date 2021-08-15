@@ -1,0 +1,110 @@
+1 times 1 is 1
+2 times 1 is 2
+3 times 1 is 3
+4 times 1 is 4
+5 times 1 is 5
+6 times 1 is 6
+7 times 1 is 7
+8 times 1 is 8
+9 times 1 is 9
+10 times 1 is 10
+__________________________________________________
+1 times 2 is 2
+2 times 2 is 4
+3 times 2 is 6
+4 times 2 is 8
+5 times 2 is 10
+6 times 2 is 12
+7 times 2 is 14
+8 times 2 is 16
+9 times 2 is 18
+10 times 2 is 20
+__________________________________________________
+1 times 3 is 3
+2 times 3 is 6
+3 times 3 is 9
+4 times 3 is 12
+5 times 3 is 15
+6 times 3 is 18
+7 times 3 is 21
+8 times 3 is 24
+9 times 3 is 27
+10 times 3 is 30
+__________________________________________________
+1 times 4 is 4
+2 times 4 is 8
+3 times 4 is 12
+4 times 4 is 16
+5 times 4 is 20
+6 times 4 is 24
+7 times 4 is 28
+8 times 4 is 32
+9 times 4 is 36
+10 times 4 is 40
+__________________________________________________
+1 times 5 is 5
+2 times 5 is 10
+3 times 5 is 15
+4 times 5 is 20
+5 times 5 is 25
+6 times 5 is 30
+7 times 5 is 35
+8 times 5 is 40
+9 times 5 is 45
+10 times 5 is 50
+__________________________________________________
+1 times 6 is 6
+2 times 6 is 12
+3 times 6 is 18
+4 times 6 is 24
+5 times 6 is 30
+6 times 6 is 36
+7 times 6 is 42
+8 times 6 is 48
+9 times 6 is 54
+10 times 6 is 60
+__________________________________________________
+1 times 7 is 7
+2 times 7 is 14
+3 times 7 is 21
+4 times 7 is 28
+5 times 7 is 35
+6 times 7 is 42
+7 times 7 is 49
+8 times 7 is 56
+9 times 7 is 63
+10 times 7 is 70
+__________________________________________________
+1 times 8 is 8
+2 times 8 is 16
+3 times 8 is 24
+4 times 8 is 32
+5 times 8 is 40
+6 times 8 is 48
+7 times 8 is 56
+8 times 8 is 64
+9 times 8 is 72
+10 times 8 is 80
+__________________________________________________
+1 times 9 is 9
+2 times 9 is 18
+3 times 9 is 27
+4 times 9 is 36
+5 times 9 is 45
+6 times 9 is 54
+7 times 9 is 63
+8 times 9 is 72
+9 times 9 is 81
+10 times 9 is 90
+__________________________________________________
+1 times 10 is 10
+2 times 10 is 20
+3 times 10 is 30
+4 times 10 is 40
+5 times 10 is 50
+6 times 10 is 60
+7 times 10 is 70
+8 times 10 is 80
+9 times 10 is 90
+10 times 10 is 100
+__________________________________________________
